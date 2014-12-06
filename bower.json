@@ -1,0 +1,28 @@
+{
+  "name": "blank-css-rem",
+  "version": "0.1.0",
+  "description": "rem function for blank-css",
+  "main": "rem.scss",
+  "homepage": "https://github.com/ahmedelgabri/blank-utilities-rem",
+  "authors": [
+    "Ahmed El Gabri <ahmed@gabri.me>"
+  ],
+  "keywords": [
+    "scss",
+    "sass",
+    "css",
+    "bem",
+    "oocss",
+    "blank",
+    "blank-css",
+    "rem"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
